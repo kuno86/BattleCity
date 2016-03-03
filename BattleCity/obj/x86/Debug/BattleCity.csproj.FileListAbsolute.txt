@@ -1,0 +1,17 @@
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\OpenTK.dll
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\OpenTK.pdb
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\OpenTK.xml
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.exe
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.pdb
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.csprojResolveAssemblyReference.cache
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.exe
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.pdb
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\obj\x86\Debug\BattleCity.csprojResolveAssemblyReference.cache
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\bin\Debug\OpenTK.pdb
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\bin\Debug\OpenTK.xml
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+C:\Users\pfeil\Desktop\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config

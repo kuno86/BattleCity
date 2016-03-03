@@ -1,0 +1,8 @@
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\BattleCity.exe.config
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\BattleCity.exe
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\BattleCity.pdb
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\OpenTK.dll
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\OpenTK.pdb
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\bin\Release\OpenTK.xml
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\obj\x86\Release\BattleCity.exe
+C:\Users\Karsten\Desktop\BattleCity\BattleCity\obj\x86\Release\BattleCity.pdb

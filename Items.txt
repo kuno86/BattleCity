@@ -1,0 +1,22 @@
+Helmet	= gives Spawnshield for 10s
+clock	= Freezes all NPCs  for 10s (not their bullets !!)
+Shovel	= Iron-Blocks around Base
+Star	= better tank
+Grenade = Destroy all NPCs
+tank	= extra-live
+gun	= gives you 3 Hp
+
+
+
+tank1	1 bullet
+tank2	1 fast bullet
+tank3	2 fast bullets that can destroy iron
+tank4	2 fast bullets that can destroy iron
+
+
+NPCs:
+
+spawn item = flashing silver-red 
+2Hits left = flashing green-silver (only lvl4-npcs)
+1Hits left = flashing green-yellow (only lvl4-npcs)
+0Hits lfet = silver
